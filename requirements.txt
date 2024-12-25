@@ -1,0 +1,6 @@
+kivy
+kivymd
+tensorflow
+numpy
+pillow
+pyinstaller
